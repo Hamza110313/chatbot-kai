@@ -1,0 +1,6 @@
+{
+  "name": "Kai",
+  "description": "Kai — Bilingual English & Urdu AI chat workspace powered by the Gemini API with persistent local conversations, syntax-highlighted code blocks, and light/dark themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
